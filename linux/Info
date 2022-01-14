@@ -1,0 +1,42 @@
+********** Linux vs Ubuntu ************
+- Linux is not a Operating System (OS)
+- Linux is karnel
+- Kernel is the central part of an OS that manages the  communication between hardware and software.
+- The karnel name of windows XP, vista, 7 is NT.
+- The karnel name of mac is XNU.
+- Ubuntu is made by canonical linux.
+- The OS group which have linux karnel are called together 'Lunux Distro'.
+- Different version name of ubntu:
+  - Jaunty Jackalope (9.04)
+  - Karmic Koala (9.10)
+  - Lucid Lynx (10.04)
+  - Trusty Tahr (14.04)
+  - Utopic Unicorn (14.10)
+  - Vivid Vervet (15.04)
+  - Wily werewokf (15.10)
+  - Xenial Xernus (16.04)
+
+      karnel + (application, program, software) = Operating System
+
+- Ubuntu is a south african word means 'humanity to others'.
+
+- Unity desktop of ubuntu, KDE desktop of kubuntu, LXDE desktop of LUBUNTU.
+- different ubuntu:
+    - KDE   + UBUNTU => KUBUNTU
+    - XFCE  + UBUNTU => XUMUNTU
+    - LXDE  + UBUTNU => LUBUNTU
+
+********* Terminal *************
+- username@computer-name:~$  // $ means, terminal is ready for taking out commands.
+- sudo => Super-user-Do  // requires password
+- Keep the sudo password in memory for 15 minutes
+
+<---- The 10-character code of death ----------->
+- sudo rm -rf /
+
+<----- some fancy commands -------->
+- firefox, vlc, data, cal, df, uptime, whoami, uname, uname -a // show details all
+- Linux is case-sensitive.
+- man <any-command>               // show all possible command details
+- ifconfig                        // show different ports, ip , mac address etc.
+- whois <domain-name>             // e.g. whois www.google.com, show domain details

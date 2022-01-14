@@ -1,0 +1,13 @@
+<------------- Why lodash? ---------------->
+- Lodash makes JavaScript easier by taking the hassle out of working with arrays, numbers, objects, strings, etc.
+- Lodash modular methods are great for:
+    - Iterating arrays, objects, & strings
+    - Manipulating & testing values
+    - Creating composite function
+
+<------- _.each iteration -------------->
+  const selectTag = that.$('#namespace');
+  $(selectTag).html('');
+  _.each(namespaces, (it) =>  {
+    $(selectTag).append('<option>' + it + '</option>');
+  });
